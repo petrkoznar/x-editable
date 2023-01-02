@@ -1,39 +1,16 @@
 {
-    "name": "petrkoznar/x-editable",
-    "description": "In-place editing with Twitter Bootstrap, jQuery UI or pure jQuery.",
-    "version": "1.5.3",
-    "homepage": "http://github.com/vitalets/x-editable",
-    "authors": [
-        {
-            "name": "Vitaliy Potapov",
-            "email": "noginsk@rambler.ru",
-            "role": "Developer"
-        }
-    ],
-    "keywords": [
-        "bootstrap",
-        "x-editable",
-        "table",
-        "editable"
-    ],
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/vitalets/x-editable.git"
-        }
-    ],
-    "support": {
-        "issues": "https://github.com/vitalets/x-editable/issues",
-        "source": "http://vitalets.github.io/x-editable",
-        "wiki": "http://vitalets.github.io/x-editable"
-    },
-    "license": [
-        "MIT"
-    ],
-    "require": {
-        
-    },
-    "require-dev": {
-        "grunt": "~0.4.0"
+  "name": "petrkoznar/x-editable",
+  "description": "Change item adhoc",
+  "type": "library",
+  "require": {
+    "php": ">=8.1.0"
+  },
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Petr K",
+      "email": "petr@test.com"
     }
+  ],
+  "minimum-stability": "dev"
 }
