@@ -12,5 +12,5 @@
       "email": "petr@test.com"
     }
   ],
-  "minimum-stability": "dev"
+  "minimum-stability": "stable"
 }
